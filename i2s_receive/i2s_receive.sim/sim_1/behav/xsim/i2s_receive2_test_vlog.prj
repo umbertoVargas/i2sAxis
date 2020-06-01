@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../i2s_receive.srcs/sim_1/new/common_test_util.v" \
+"../../../../i2s_receive.srcs/sources_1/new/i2s_receive.v" \
+"../../../../i2s_receive.srcs/sim_1/new/i2s_receive_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

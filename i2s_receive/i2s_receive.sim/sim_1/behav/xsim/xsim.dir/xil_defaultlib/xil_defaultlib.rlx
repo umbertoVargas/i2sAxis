@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sim_1/new/common_test_util.v,1588501930,verilog,,C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/i2s_receive.v,,common_test_util,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sim_1/new/i2s_receive_test.v,1588584204,verilog,,,,i2s_receive_test,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/axi_streaming_slave_bfm.v,1588580136,verilog,,C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sim_1/new/common_test_util.v,,axi4_streaming_slave_bfm,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/common_util.v,1588580266,verilog,,,,,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/i2s_receive.v,1588584511,verilog,,C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/queue.v,,i2s_receive,,,,,,,,
+C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/queue.v,1588580306,verilog,,C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sim_1/new/i2s_receive_test.v,C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sources_1/new/common_util.v,queue,,,,,,,,

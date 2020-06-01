@@ -1,0 +1,6 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+INFO: i2s_receive_test.util.init: Simulation start.
+INFO: i2s_receive_test.util.wrapup: Simulation complete at time 422900.00ns. 303 comparisons attempted.
+INFO: i2s_receive_test.util.wrapup: Simulation PASSED with 303 comparisons
+$finish called at time : 422900 ns : File "C:/Users/umber/OneDrive/Documents/TFG/VIVADO/AUDIO/i2s_receive/i2s_receive/i2s_receive.srcs/sim_1/new/i2s_receive_test.v" Line 167
